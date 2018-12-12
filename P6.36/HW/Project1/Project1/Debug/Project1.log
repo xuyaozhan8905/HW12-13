@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\user\desktop\程式作業\12 13\107360242_耀展\p6.36\source\source.c(13): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\程式作業\12 13\107360242_耀展\p6.36\source\source.c(17): warning C4098: 'main': 'void' 函式正在傳回值
+  Project1.vcxproj -> C:\Users\user\Desktop\程式作業\12 13\107360242_耀展\P6.36\HW\Project1\Debug\Project1.exe
